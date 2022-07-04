@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "d338011dc83ed556",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e78cb11f41327b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a23d9b50015bb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "540b3980d172f05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b626085d9b2bbc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f10fe4d7ac3182bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea2ac13821937bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ae34cf9aef61d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392e614594b7ce3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e6e78cb11f41327b",
+  "lastOpenFiles": [
+    "file 2.md",
+    "Vault structure.md"
+  ]
+}

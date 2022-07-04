@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New File.md",
+            "file": "newer file.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New File.md",
+                "file": "newer file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e6e78cb11f41327b",
   "lastOpenFiles": [
+    "newer file.md",
     "New File.md",
     "file 2.md",
     "Vault structure.md"
